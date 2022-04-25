@@ -2,7 +2,7 @@
 ## A python Windows app to detect students and records names
 
 
-The preview -
+<!---The preview -
 - Face mask Detection
 
 ![](https://media.giphy.com/media/k1Jt7UgenclntNRtcv/giphy.gif)
@@ -11,7 +11,7 @@ The preview -
 - Attendance system
 
 
-![](https://media.giphy.com/media/UlAREJoIpoqIfBSJ92/giphy.gif)
+![](https://media.giphy.com/media/UlAREJoIpoqIfBSJ92/giphy.gif)--->
 
 
 
